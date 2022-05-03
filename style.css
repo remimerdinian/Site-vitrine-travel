@@ -1,11 +1,11 @@
 @font-face {
     font-family: "Araboto";
-    src: url("/images/Araboto\ Normal\ 400.ttf")
+    src: url("images/Araboto\ Normal\ 400.ttf")
 }
 
 
 body {
-    background-image: url("/Capture\ d’écran\ 2022-05-03\ 112559.png");
+    background-image: url("Capture\ d’écran\ 2022-05-03\ 112559.png");
     font-family: "Araboto";
   }
   
